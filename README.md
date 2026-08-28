@@ -1,8 +1,7 @@
-# DN Caça Vazamentos
+# Site Suane S. B. Postal
 
-Site estático para DN Caça Vazamentos, com página única em HTML/CSS.
+Site institucional estático da psicóloga Suane S. B. Postal.
 
-## Arquivos
+## Publicação na Vercel
 
-- `index.html`: site principal
-- `vercel.json`: configuração simples para deploy na Vercel
+Este projeto não exige build ou dependências. Na Vercel, use a raiz do repositório como **Root Directory** e deixe o framework como **Other**. O arquivo `index.html` será servido diretamente.
